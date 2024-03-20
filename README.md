@@ -1,2 +1,2 @@
 # cart-using-js
-[Click here to view](giphy-api-js.netlify.app)
+[Click here to view](https://cart-using-js.netlify.app/)
